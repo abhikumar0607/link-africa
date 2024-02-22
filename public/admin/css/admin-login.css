@@ -1,0 +1,13 @@
+.login-page {
+    background: #5c2f94;
+}
+.login-page .card.card-outline.card-primary {
+    border-top: inherit;
+}
+.login-page button.btn.btn-primary.btn-block {
+    background: #5c2f94;
+    border: 1px solid #5c2f94;
+}
+.login-page a.h1 img {
+    width: 75%;
+}
